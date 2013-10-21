@@ -1,5 +1,5 @@
 //
-//  HVViewController.h
+//  ChallengeTableViewController.h
 //  UIviewController Challenge Solution
 //
 //  Created by Heidi Vormer on 2013-10-21.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HVViewController : UIViewController
+@interface ChallengeTableViewController : UITableViewController
 
 @end
